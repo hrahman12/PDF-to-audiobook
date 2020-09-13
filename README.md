@@ -1,4 +1,4 @@
-# PDF-to-audiobook
+# PDF-to-audiobook using Pygame
 Convert text and images to speech using Pygame mixer
 Using external libraries
 #### Prerequisite software
